@@ -1,0 +1,1 @@
+print("Adelade".strip('l'))
